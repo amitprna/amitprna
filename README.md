@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @amit
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning Deep Learign
+- 👋 Hi, I’m @amit_jaiswal
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning NLP
 - 📫 How to reach me amitprna@gmail.com
 
 <!---
