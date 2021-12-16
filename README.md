@@ -8,7 +8,7 @@
 </div>
 
 
-<h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp About Me <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </h2>
+<h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> About Me <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </h2>
 <img width="20%" img align="right"  alt="side_sticker" src="https://media.giphy.com/media/ZXKU9UNelJno8CdNKQ/giphy.gif" />
 
 - 👀  I’m interested in Data Science
