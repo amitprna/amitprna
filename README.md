@@ -51,7 +51,7 @@
 
 ![Amit's github stats](https://github-readme-stats.vercel.app/api?username=amitprna&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitprna&theme=tokyonight" alt="mystreak"/>
-![amitprna's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitprna&theme=tokyonight&layout=compact)
+![Amit's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitprna&theme=tokyonight&layout=compact)
 
 
 
