@@ -54,13 +54,13 @@
 ![Amit's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitprna&theme=tokyonight&layout=compact)
 
 
-
+<h2>
 <br />
 <br />
 <br />
 <details>
 <summary>
-  <h2>Projects I am currently working on</h2>
+  Projects I am currently working on</h2>
 </summary>
 
 <br />
