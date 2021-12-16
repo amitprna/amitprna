@@ -16,15 +16,13 @@
 <h2> About Me <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </h2>
 <img width="25%" img align="right"  alt="side_sticker" src="https://media.giphy.com/media/ZXKU9UNelJno8CdNKQ/giphy.gif" />
 
-- 🔭 I’m currently working on  Soy Estudiante
+- 👀  I’m interested in Data Science
   
-- 🌱 I’m currently learning Git, Java y GitHub
+- 🌱 I’m currently working on Deep Learning
   
-- 👯 I’m looking to collaborate on Proyectos
-  
-- 💬 Ask me about Sql, Java, C#, JavaScript
-  
-- ⚡ Fun fact: Me gustan los girasoles.
+- ⚡ Ask me about Sql, Python, Power Bi, Machine Learning
+- 
+- 💬 mail : amitprna@gmail.com
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h2>
