@@ -21,7 +21,7 @@
 - 🌱 I’m currently working on Deep Learning
   
 - ⚡ Ask me about Sql, Python, Power Bi, Machine Learning
-- 
+
 - 💬 mail : amitprna@gmail.com
 
 
