@@ -12,9 +12,6 @@
 <img src="https://media.giphy.com/media/pvDPNuJ5B04ySQfbYr/giphy.gif" alt="Welcome!" width="300"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ahmad!;I'm+a+Flutter+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
-
-
 
 <h2> About Me <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </h2>
 <img width="25%" img align="right"  alt="side_sticker" src="https://media.giphy.com/media/ZXKU9UNelJno8CdNKQ/giphy.gif" />
