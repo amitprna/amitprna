@@ -19,7 +19,7 @@
 
 
 <h2> About Me <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </h2>
-<img width="45%" img align="right"  alt="side_sticker" src="https://media.giphy.com/media/jMPNA5n9d9LYZqtkLs/giphy.gif" />
+<img width="35%" img align="right"  alt="side_sticker" src="https://media.giphy.com/media/jMPNA5n9d9LYZqtkLs/giphy.gif" />
 
 - 🔭 I’m currently working on  Soy Estudiante
   
