@@ -60,7 +60,7 @@
 <br />
 <details>
 <summary>
-  Projects I am currently working on</h2>
+  Projects I am currently working on
 </summary>
 
 <br />
@@ -71,7 +71,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
 
 <br />
-
+</h2>
 
 
 
