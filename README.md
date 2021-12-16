@@ -19,7 +19,7 @@
 
 
 <h2> About Me </h2>
-<img width="55%" img align="right"  alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img width="20%" img align="right"  alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🔭 I’m currently working on  Soy Estudiante
   
