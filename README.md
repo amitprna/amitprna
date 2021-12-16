@@ -60,7 +60,7 @@
 <br />
 <details>
 <summary>
-  Projects I am currently working on
+  <h2>Projects I am currently working on</h2>
 </summary>
 
 <br />
