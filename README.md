@@ -7,8 +7,8 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=amitprna.amitprna)
+[![Github](https://img.shields.io/github/followers/amitprna?label=Follow&style=social)](https://github.com/Aditya664)
 
 <div align="center" width="50">
 <img src="https://media.giphy.com/media/pvDPNuJ5B04ySQfbYr/giphy.gif" alt="Welcome!" width="300"/>
