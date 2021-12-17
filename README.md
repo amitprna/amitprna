@@ -34,14 +34,6 @@
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 
-
-## My Github Statistics 🚀<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-![Amit's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=amitprna&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amitprna&theme=tokyonight" alt="mystreak"/>
-![Amit's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitprna&theme=tokyonight&layout=compact)
-
-
 <h2>
 <br />
 <br />
@@ -60,6 +52,14 @@
 
 <br />
 </h2>
+
+
+## My Github Statistics 🚀<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+![Amit's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=amitprna&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amitprna&theme=tokyonight" alt="mystreak"/>
+![Amit's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitprna&theme=tokyonight&layout=compact)
+
 
 
 
